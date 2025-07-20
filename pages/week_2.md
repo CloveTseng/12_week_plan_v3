@@ -21,6 +21,31 @@ image: https://images.unsplash.com/photo-1752779588144-938ea861bf05?q=80&w=687&a
   }
 </style>
 ---
+layout: 
+---
+## 目標狀態
+
+<div class="grid grid-cols-2 gap-x-4">
+<div v-click>
+
+![alt text](../public/week2-p1.png)
+
+</div>
+<div v-click>
+
+![alt text](../public/week2-p2.png)
+</div>
+<div v-click>
+
+![alt text](../public/week2-p3.png)
+</div>
+<div v-click>
+
+- 尚未開始
+![alt text](../public/week2-p4.png)
+</div>
+</div>
+---
 
 # 上週亮點
 本週成功完成了多項學習任務和面試準備，展現了良好的學習進度和職涯規劃。
@@ -102,7 +127,6 @@ image: https://images.unsplash.com/photo-1614122049516-955417b6b03d?q=80&w=1170&
 - 完成志工任務：直播分享會支援帶來了正面情緒
 
 <img src="https://images.unsplash.com/photo-1586410073908-5f314173d3a5?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="rounded-full w-50 h-50 object-cover object-bottom" v-click="1">
-
 ---
 layout: center
 ---
