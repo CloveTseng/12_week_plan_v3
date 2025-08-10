@@ -97,7 +97,7 @@ https://clovetseng.github.io/orderingSystem/
 -->
 ---
 layout: image-left
-image: https://images.unsplash.com/photo-1614122049516-955417b6b03d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+image: https://images.unsplash.com/photo-1600272994589-048f925d57b3?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 # 上週低點

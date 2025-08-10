@@ -8,10 +8,14 @@ highlighter: shiki
 ---
 
 # 第 3 季 12 週計劃 
-第 3 航廈_墨西哥
-### 分享人： Clove_墨
+第 3 航廈_墨西哥 分享人： Clove_墨
+## 本季目標
 
-<img src="https://images.unsplash.com/photo-1556998914-e5cb6fe38124?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+| target | progress |
+| ------ | -------- |
+| 上岸一間可以至少待兩年的前端工作 | ○○○○○●●●●● |
+| 參加 AAPD x 六角研發營 | ○○○○○○○○●● |
+| 學習 Vue 3 | ○○○○○○●●●● |
 
 ---
 src: ./pages/week_5.md
