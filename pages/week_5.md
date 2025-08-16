@@ -30,7 +30,7 @@ image: https://images.unsplash.com/photo-1600333690572-47f8cd89382a?q=80&w=1035&
  -->
 ---
 dragPos:
-  square: 593,359,234,_
+  square: 200,135,467,_
 ---
 
 ## 目標狀態

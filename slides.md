@@ -13,12 +13,12 @@ highlighter: shiki
 
 | target | progress |
 | ------ | -------- |
-| 上岸一間可以至少待兩年的前端工作 | ●●●●●○○○○○ |
+| 上岸一間可以至少待兩年的前端工作 | ●●●●●●○○○○ |
 | 參加 AAPD x 六角研發營 | ●●○○○○○○○○ |
-| 學習 Vue 3 | ●●●●○○○○○○ |
+| 學習 Vue 3 | ●●●●●○○○○○ |
 
 ---
-src: ./pages/week_5.md
+src: ./pages/week_6.md
 ---
 ---
 layout: center 
