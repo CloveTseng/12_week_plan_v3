@@ -115,3 +115,32 @@ layout: center
 - JS 奇怪的部份
 - Vue 第二週作業 - 登入註冊功能
 - Vue 最終任務
+
+---
+dragPos:
+  square: 435,252,270,_
+---
+
+# 生活分享
+
+<div v-click>
+<img v-drag="'square'" src="../public/week6-pressure1.png" width="100px">
+</div>
+<div v-click>
+<img v-drag="'square'" src="../public/week6-pressure2.png" width="100px">
+</div>
+<div v-click>
+<img v-drag="'square'" src="../public/week6-pressure3.png" width="100px">
+</div>
+<div v-click>
+<img v-drag="'square'" src="../public/week6-pressure4.jpg" width="100px">
+</div>
+
+<!--
+最近因為什麼暈炫症啦、或是免疫失調的大過敏，然後大家都會常常聽到醫生說：不要給自己太大壓力、或是壓力減少了這個病症就會好了這種鬼故事，
+所以做了壓力的檢測~想要知道自己是有多廢XD
+[click] 這是網路上找到的一堆壓力的來源，我是覺得工程師蠻容易給自己內在壓力的，特別是一堆很捲的XD
+[click] 順便也想要跟大家科普一下，壓力的堆積可能會造成一些顯性的身體問題發生
+[click] 做完檢測後會收到一個長這樣的圖表，最理想一定是在綠綠的區間，表示就算有壓力，你的身體也可以很好的把他調回來
+[click] 這是我做完的報告，雖然我感覺壓線，但醫生是說其實很不錯了，身體都有適應過來，如果有上班之後還想再測一次…感覺會爆XD?
+-->
