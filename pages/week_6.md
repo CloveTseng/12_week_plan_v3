@@ -37,16 +37,16 @@ image: https://images.unsplash.com/photo-1688998030272-b4da8ff17ef0?w=900&auto=f
 <div class="grid grid-cols-2 gap-x-4">
 <div v-click>
 
-![alt text](../public/week6-p1.png)
+![alt text](/week6-p1.png)
 
 </div>
 <div v-click>
 
-![alt text](../public/week6-p2.png)
+![alt text](/week6-p2.png)
 </div>
 <div v-click>
 
-![alt text](../public/week6-p3.png)
+![alt text](/week6-p3.png)
 
 </div>
 <div v-click>
@@ -118,22 +118,22 @@ layout: center
 
 ---
 dragPos:
-  square: 435,252,270,_
+  square: 523,43,461,_
 ---
 
 # 生活分享
 
 <div v-click>
-<img v-drag="'square'" src="../public/week6-pressure1.png" width="100px">
+<img v-drag="'square'" src="/week6-pressure1.png" width="100px">
 </div>
 <div v-click>
-<img v-drag="'square'" src="../public/week6-pressure2.png" width="100px">
+<img v-drag="'square'" src="/week6-pressure2.png" width="100px">
 </div>
 <div v-click>
-<img v-drag="'square'" src="../public/week6-pressure3.png" width="100px">
+<img v-drag="'square'" src="/week6-pressure3.png" width="100px">
 </div>
 <div v-click>
-<img v-drag="'square'" src="../public/week6-pressure4.jpg" width="100px">
+<img v-drag="'square'" src="/week6-pressure4.jpg" width="100px">
 </div>
 
 <!--
